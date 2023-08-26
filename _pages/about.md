@@ -9,8 +9,6 @@ profile:
   image: XBTO.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    # <p>ISyE Main 440</p>
-    # <p>755 Ferst Dr NW</p>
     <p>New York, NY</p>
 
 news: true  # includes a list of news items
@@ -28,4 +26,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am currently a Ph.D. Candidate in Operation Research at [ISyE](https://www.isye.gatech.edu/), [Georgia Tech](https://www.gatech.edu/). Prior to this, I hold MS in Computational Science and Engineering and MS in Quantitative Computational Finance from Georgia Tech and BS in Applied Mathematics and BS in Economics from [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 
 Some of my research interests include dynamic programming and reinforcement learning in battery optimization, price forecasting in energy market with modern machine learning techniques and also financial engineering. 
-I have hold positions as quantitative researcher/analyst in top tiere energy companies such as [BP](https://www.bp.com/en_us/united-states/home.html) Trading and [Engie](https://www.engie.com/en) as well as buy side financial institutions such as [XBTO Group](https://www.xbto.com/). 
+I have held positions as quantitative researcher/analyst in top tiere energy companies such as [BP](https://www.bp.com/en_us/united-states/home.html) and [Engie](https://www.engie.com/en) as well as buy side financial institutions such as [XBTO Group](https://www.xbto.com/). 
