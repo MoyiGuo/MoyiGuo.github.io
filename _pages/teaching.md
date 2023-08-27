@@ -2,11 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Classes where I used serve as GTA (Graduate Teaching Assistant)
 nav: true
 nav_order: 5
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+[ISyE 6767] (https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202308&subj_code_in=ISYE&crse_numb_in=6767)
+[ISyE 6762] 
