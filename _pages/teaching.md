@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Classes where I used serve as GTA (Graduate Teaching Assistant)
+description: I have been serving as a GTA (Graduate Teaching Assistant) for the following advanced-level classes 
 nav: true
 nav_order: 5
 ---
