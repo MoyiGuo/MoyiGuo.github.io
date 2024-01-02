@@ -23,7 +23,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am currently a Ph.D. Candidate in Operation Research at [ISyE](https://www.isye.gatech.edu/), [Georgia Tech](https://www.gatech.edu/). Prior to this, I hold MS in Computational Science and Engineering and MS in Quantitative Computational Finance from Georgia Tech and BS in Applied Mathematics and BS in Economics from [Tsinghua University](https://www.tsinghua.edu.cn/en/)
+I am currently a Ph.D. Candidate in Operation Research at [ISyE](https://www.isye.gatech.edu/), [Georgia Tech](https://www.gatech.edu/). Prior to this, I hold Master's Degree in Computational Science and Engineering and Master's Degree in Quantitative Computational Finance from Georgia Tech as well. I obtained my Bachelor's degree in Applied Mathematics and Bachelor's degree in Economics from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 Some of my research interests include dynamic programming and reinforcement learning in battery optimization, price forecasting in energy market with modern machine learning techniques and also financial engineering. 
 I have held positions as quantitative researcher/analyst in top tier energy companies such as [BP](https://www.bp.com/en_us/united-states/home.html) and [Engie](https://www.engie.com/en) as well as buy side financial institutions such as [XBTO Group](https://www.xbto.com/) and [Invesco](https://www.invesco.com/corporate/en/home.html). 
