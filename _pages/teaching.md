@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: I have been serving as a GTA (Graduate Teaching Assistant) for the following advanced-level classes 
 nav: true
-nav_order: 5
+nav_order: 1
 ---
 
 [ISyE 6227: Introduction to Financial Engineering](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=200708&subj_code_in=ISYE&crse_numb_in=6227)
