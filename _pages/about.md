@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD Candidate @ ISyE Georgia Institute of Technology</a>. 
 
 profile:
   align: right
-  image: 华尔街.jpeg
+  image: wallstreet.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Columbus Circle, NYC</p>
@@ -23,7 +23,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a Ph.D. Candidate in Operation Research at [ISyE](https://www.isye.gatech.edu/), [Georgia Tech](https://www.gatech.edu/). Prior to this, I hold double Master's Degree in Computational Science Engineering and Quantitative Computational Finance from Georgia Tech as well. I obtained my double Bachelor's degree in Applied Mathematics and Economics from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am a Ph.D. Candidate in Operation Research at [ISyE](https://www.isye.gatech.edu/), [Georgia Tech](https://www.gatech.edu/). 
+Prior to this, I hold double Master's Degree in Computational Science Engineering and Quantitative Computational Finance from Georgia Tech as well. I obtained my double Bachelor's degree in Applied Mathematics and Economics from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 Some of my research interests include dynamic programming and reinforcement learning in battery optimization, price forecasting in energy market with modern machine learning techniques and also financial engineering. 
 
