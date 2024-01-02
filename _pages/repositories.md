@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 # description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 description: Welcome to Moyi's repositories. Currently, the repositories have not been synchronized yet but they will be updated in the near future. 
-nav: true
+nav: false
 nav_order: 3
 ---
 
