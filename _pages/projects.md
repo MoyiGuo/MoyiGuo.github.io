@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing collection of Moyi's cool projects. Currently this page has not been synchronized yet, but will be updated in the near future.
 nav: false
-nav_order: 2
+nav_order: 5
 display_categories: [work, fun]
 horizontal: false
 ---
