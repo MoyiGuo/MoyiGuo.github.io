@@ -28,4 +28,4 @@ I am a Ph.D. Candidate in Operation Research at [ISyE](https://www.isye.gatech.e
 Some of my research interests include dynamic programming and reinforcement learning in battery optimization, price forecasting in energy market with modern machine learning techniques and also financial engineering. 
 
 
-I have held positions as quantitative researcher/analyst in top tier energy companies such as [BP](https://www.bp.com/en_us/united-states/home.html) and [Engie](https://www.engie.com/en) as well as buy side financial institutions such as [XBTO Group](https://www.xbto.com/) and [Invesco](https://www.invesco.com/corporate/en/home.html). 
+I have held positions as quantitative researcher/analyst in top tier energy companies such as [BP](https://www.bp.com/en_us/united-states/home.html) and [Engie](https://www.engie.com/en) as well as leading buy-side financial institutions such as [XBTO Group](https://www.xbto.com/) and [Invesco](https://www.invesco.com/corporate/en/home.html). 
