@@ -9,7 +9,7 @@ profile:
   image: wallstreet.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Columbus Circle, NYC</p>
+    <p>Wall Street, NYC</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
