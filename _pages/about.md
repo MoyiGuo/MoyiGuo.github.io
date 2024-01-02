@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD Candidate @ ISyE Georgia Institute of Technology</a>. 
 
 profile:
   align: right
-  image: WallStreet.jpeg
+  image: WallStreet.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Wall Street, NYC</p>
