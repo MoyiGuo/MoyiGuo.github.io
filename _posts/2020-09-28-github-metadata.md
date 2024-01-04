@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  a post with github metadata
+hidden: true 
 date: 2020-09-28 21:01:00
 description: a quick run down on accessing github metadata.
 tags: metadata
