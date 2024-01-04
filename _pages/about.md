@@ -9,7 +9,7 @@ profile:
   image: WallStreet.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Wall Street, NYC</p>
+    <p>Wall Street Bull, New York</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -26,7 +26,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am a Ph.D. Candidate in Operation Research at [ISyE](https://www.isye.gatech.edu/), [Georgia Tech](https://www.gatech.edu/). 
 Prior to this, I hold double Master's Degree in Computational Science Engineering and Quantitative Computational Finance from Georgia Tech as well. I obtained my double Bachelor's degree in Applied Mathematics and Economics from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
-Some of my research interests include dynamic programming and reinforcement learning in battery optimization, price forecasting in energy market with modern machine learning techniques and also financial engineering. 
+My research interests include dynamic programming and reinforcement learning in battery optimization, price forecasting in energy market with state-of-art machine learning techniques and financial engineering. 
 
 
-I have held positions as quantitative researcher/analyst in top tier energy companies such as [BP](https://www.bp.com/en_us/united-states/home.html) and [Engie](https://www.engie.com/en) as well as leading buy-side financial institutions such as [XBTO Group](https://www.xbto.com/) and [Invesco](https://www.invesco.com/corporate/en/home.html). 
+I have held positions as quantitative researcher/analyst in oil major and multinational energy corporation such as [BP](https://www.bp.com/en_us/united-states/home.html) and [Engie](https://www.engie.com/en) as well as buy-side financial institutions such as [XBTO Group](https://www.xbto.com/) and [Invesco](https://www.invesco.com/corporate/en/home.html). 
