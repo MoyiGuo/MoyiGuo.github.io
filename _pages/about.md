@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>PhD Candidate @ ISyE Georgia Institute of Technology</a>. #Address. Contacts. Moto. Etc.
 

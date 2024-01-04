@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: I have been serving as a GTA (Graduate Teaching Assistant) for the following PhD/Graduate-Level classes.
+title: Teaching
+description: I have been serving as a GTA (Graduate Teaching Assistant) for the following PhD/Graduate-level classes.
 nav: true
 nav_order: 1
 ---
