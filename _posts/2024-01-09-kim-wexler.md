@@ -2,13 +2,14 @@
 layout: post
 title:  a post with images
 hidden: true
-date: 2015-05-15 21:01:00
-description: this is what included images could look like
-tags: formatting images
-categories: sample-posts
+date: 2024-01-09 21:01:00
+description: Better call Saul
+tags: Emotion Jimmy Wexler
+categories: Emotion
 thumbnail: assets/img/9.jpg
+related_posts: false
 ---
-This is an example post with image galleries.
+This is an example post on a fun blog regarding the TV series "Better call Saul"
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
