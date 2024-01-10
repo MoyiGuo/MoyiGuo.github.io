@@ -26,6 +26,6 @@ related_posts: false
 <div class="caption">
     Jimmy and Kim. 
 </div>
-</div>
+
 
 
