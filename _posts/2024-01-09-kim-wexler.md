@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  a post with images
-hidden: true
+hidden: false
 date: 2024-01-09 21:01:00
 description: Better call Saul
 tags: Emotion Jimmy Wexler
