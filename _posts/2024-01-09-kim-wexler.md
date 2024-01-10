@@ -13,14 +13,14 @@ related_posts: false
 
 说起这部足足拍了六季的剧，想要彻底剖析是不可能的，reddit(美国版天涯贴吧论坛)上对于每一季中的每一集都单独开了一个帖子来讨论，其中不乏网友们带着不同主观色彩的想法激烈碰撞着，这种盛况也可以从侧面说明剧迷们对于这部剧的喜爱和神往。
 
-毫无疑问，这部剧的主角是Jimmy----或者说“Saul”(我更喜欢Jimmy这个称呼，其中缘由很复杂，留给另一片博文讨论吧), 他是我在这部剧中非常喜欢的角色，但剧中最令我喜欢，甚至毫不夸张地说，让我着迷的人却是Jimmy的妻子Kim Wexler。我对于Kim的喜欢绝不是因为她的长相，好莱坞巨作中不乏沉鱼落雁的美女，Kim和她们在容颜上相比，可以说算得上是普通人了。但是Kim魅力却在于她的性格，她的才华，她的多面，以及她对于心爱之人Jimmy藏不住的爱。而每当看到剧中的每一处关于这些特点的细节时，我都忍不住暂停的感慨一会儿，再继续。（没写完，明天有空接着写）
+毫无疑问，这部剧的主角是Jimmy----或者说“Saul”(我更喜欢Jimmy这个称呼，其中缘由很复杂，留给另一篇博文讨论吧), 他是我在这部剧中非常喜欢的角色，但剧中最令我喜欢，甚至毫不夸张地说，让我着迷的人却是Jimmy的妻子Kim Wexler。我对于Kim的喜欢绝不是因为她的长相，好莱坞巨作中不乏沉鱼落雁的美女，Kim和她们在容颜上相比，可以说算得上是普通人了。但是Kim魅力却在于她的性格，她的才华，她的多面，以及她对于心爱之人Jimmy藏不住的爱。而每当看到剧中的每一处关于这些特点的细节时，我都忍不住暂停的感慨一会儿，再继续。（没写完，明天有空接着写）
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MW1.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MW2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
