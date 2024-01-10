@@ -26,6 +26,7 @@ related_posts: false
 <div class="caption">
     Jimmy and Kim. 
 </div>
+</div> 
 
 <!-- Images can be made zoomable.
 Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
