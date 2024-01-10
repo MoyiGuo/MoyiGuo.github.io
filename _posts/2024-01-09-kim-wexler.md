@@ -24,7 +24,7 @@ related_posts: false
     </div>
 </div>
 <div class="caption">
-    Jimmy and Kim. 
+    Kim and Jimmy. 
 </div>
 
 
