@@ -15,7 +15,7 @@ related_posts: false
 
 毫无疑问，这部剧的主角是Jimmy----或者说“Saul”(我更喜欢Jimmy这个称呼，其中缘由很复杂，留给另一篇博文讨论吧), 他是我在这部剧中非常喜欢的角色，但剧中最令我喜欢，甚至毫不夸张地说，让我着迷的人却是Jimmy的妻子Kim Wexler。我对于Kim的喜欢绝不是因为她的长相，好莱坞巨作中不乏沉鱼落雁的美女，Kim和她们在容颜上相比，可以说算得上是普通人了。但是Kim魅力却在于她的性格，她的才华，她的多面，以及她对于心爱之人Jimmy藏不住的爱。剧中的多处关于Kim的细节处理都让我忍不住暂停后感慨一番。
 
-导演Vince Gilligan对于Kim出场的设计很有趣，她作为HHM公司的senior associate在开场和公司合伙人Howard一起坐在Jimmy的对立面。当时Jimmy正在为他的哥哥Chuck(同为HHM的合伙人之一)索取更大的公司补偿，双方会谈不欢而散Jimmy下楼后闷闷不平，咬牙切齿地踢翻了垃圾桶。搞笑的是，随着镜头的拉远，Kim出现在银幕前，她手中夹着点燃的香烟，背靠着停车楼的墙， 冷静站在电梯外等候。Jimmy走过来，夺过Kim手中的香烟，径直抽了一口，香烟入肺，仿佛烦恼如烟。这短短的3个镜头，就刻画出了Jimmy和Kim的情侣关系
+导演Vince Gilligan对于Kim出场的设计很有趣，她作为HHM公司的senior associate在开场和公司合伙人Howard一起坐在Jimmy的对立面。当时Jimmy正在为他的哥哥Chuck(同为HHM的合伙人之一)索取更大的公司补偿，双方会谈不欢而散Jimmy下楼后闷闷不平，咬牙切齿地踢翻了垃圾桶。搞笑的是，随着镜头的拉远，Kim出现在银幕前，她手中夹着点燃的香烟，背靠着停车楼的墙， 冷静站在电梯外等候。Jimmy走过来，夺过Kim手中的香烟，径直抽了一口，香烟入肺，仿佛烦恼如烟。寥寥3个镜头，就勾画出了Jimmy和Kim的默契的情侣关系，这也是文森导演非常擅长的镜头语言。在后面的情节中，多次出现了Jimmy和Kim在一起抽烟的镜头，而每次他们一起抽烟都说明他们遇到了麻烦，并且要解决麻烦的征兆，值得留意品味。
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/funny_kick.png" class="img-fluid rounded z-depth-1" %}
@@ -26,10 +26,9 @@ related_posts: false
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/get_cigar.png" class="img-fluid rounded z-depth-1" %}
     </div> 
-
 </div>
 <div class="caption">
-    Kim and Jimmy.
+    Kim和Jimmy在剧中第一次单独出现在一起.
 </div>
 
 
