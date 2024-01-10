@@ -24,7 +24,7 @@ related_posts: false
     </div>
 </div>
 <div class="caption">
-    <!-- A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. -->
+    Jimmy and Kim. 
 </div>
 
 <!-- Images can be made zoomable.
